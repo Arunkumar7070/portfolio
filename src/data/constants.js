@@ -5,7 +5,7 @@ export const Bio = {
     "I am a Full-stack developer with a demonstrated history of working in the information technology and product development industry.",
   github: "https://github.com/Arunkumar7070",
   resume:
-    "https://drive.google.com/file/d/1bemyE4J1yMmFH71ILVR2EYp9vwBURdfD/view?usp=sharing",
+    "https://drive.google.com/file/d/1d0f9weTvJPUGQH5GQXXnWi9UEKnc0YtV/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/arun-kumar-a97b5a30b/",
 };
 
